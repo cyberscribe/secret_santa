@@ -6,7 +6,7 @@ A command-line tool to create a **Secret Santa cycle** that:
 - Avoids reciprocal gifting.
 - Respects partnership constraints (e.g., couples cannot give to each other).
 
-This tool is inspired by the  two-set approach to resolving partnership constraints by [Pista Godo](https://www.linkedin.com/in/pistagodo/). It is designed to handle small to large groups efficiently while maintaining all constraints.
+This tool is designed to handle small to large groups efficiently while maintaining all constraints.
 
 ---
 
