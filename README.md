@@ -122,7 +122,7 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 
 ---
 
-## Special Thanks**: 
+## Special Thanks
 
 [Pista Godo](https://www.linkedin.com/in/pistagodo/) for the two-set strategy to handle partnership constraints.
 
